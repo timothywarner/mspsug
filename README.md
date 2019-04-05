@@ -1,2 +1,2 @@
-# mspsug
-Mississippi PowerShell User Group Presentation: PowerShell ISE to Visual Studio Code!
+# Mississippi PowerShell User Group Presentation
+PowerShell ISE to Visual Studio Code!

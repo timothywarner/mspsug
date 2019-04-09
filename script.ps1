@@ -1,0 +1,5 @@
+$PSVersionTable
+
+do {
+    
+} until (${variable});

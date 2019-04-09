@@ -1,5 +1,2 @@
 $PSVersionTable
 
-do {
-    
-} until (${variable});

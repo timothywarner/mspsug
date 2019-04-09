@@ -52,6 +52,11 @@ Some useful settings:
 3. Set Run Active File
 4. Set Show all Commands
 
+### PS Script Analyzer
+
+1. Open a ps1 file
+2. Command palette > PSScriptAnalyzer
+
 ### **Debugging**
 
 1. Open PowerShell samples folder
@@ -65,11 +70,25 @@ Some useful settings:
 2. Add content
 3. Save as workspace
 4. Re-open workspace
+5. Open workspace settings
 
+Have the terminal open to that location:
+
+```JSON
+"terminal.integrated.cwd": "C:\Users\Tim\Desktop\Workspace"
+```
 
 ### **Git**
 
 1. Git init current workspace
+2. You might want to consider using the Git Lens extension
+
+
+### **Settings Sync**
+
+1. Install [Settings Sync](https://marketplace.visualstudio.com/itemdetails?itemName=Shan.code-settings-sync) extension
+2. Create personal access token at GitHub
+3. Command palette > Sync > Upload
 
 
 

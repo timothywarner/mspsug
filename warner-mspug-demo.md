@@ -61,10 +61,15 @@ Some useful settings:
 
 ### **Workspaces**
 
-1. 
+1. Open folder
+2. Add content
+3. Save as workspace
+4. Re-open workspace
 
 
+### **Git**
 
+1. Git init current workspace
 
 
 

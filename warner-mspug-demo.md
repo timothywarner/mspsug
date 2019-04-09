@@ -52,6 +52,19 @@ Some useful settings:
 3. Set Run Active File
 4. Set Show all Commands
 
+Key binding assigned to a snippet:
+
+```JSON
+{
+  "key": "cmd+k 1",
+  "command": "editor.action.insertSnippet",
+  "when": "editorTextFocus",
+  "args": {
+    "snippet": "console.log($1)$0"
+  }
+}
+```
+
 ### PS Script Analyzer
 
 1. Open a ps1 file

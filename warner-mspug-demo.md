@@ -91,5 +91,9 @@ Have the terminal open to that location:
 3. Command palette > Sync > Upload
 
 
+### **Final ISE "reaches"**
 
+1. Consider [PowerShell Pro Tools](https://marketplace.visualstudio.com/itemdetails?itemName=ironmansoftware.powershellprotools) extension
+2. I miss: [ISESteroids](http://www.powertheshell.com/isesteroids/)
+3. I miss: [$psISE object](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/object-model/the-ise-object-model-hierarchy?view=powershell-6)
 
